@@ -86,6 +86,7 @@ Totalmente dockerizada, com documentação interativa via Swagger, banco Postgre
 
 * **FATEC Sorocaba (José Crespo Gonzales)** — *Eletrônica Automotiva* (Cursando)
   * *Foco e interesse no aprendizado de programação embarcada, sistemas automotivos e integração de hardware e software.*
+  
 * **UNINOVE** — *Análise e Desenvolvimento de Sistemas* (Concluído)
 
 ---

@@ -69,12 +69,16 @@ Tenho forte vivência na criação de ecossistemas orientados a eventos, orquest
 
 ### 🧩 Projetos em Destaque
 
-* **HexArch — Arquitetura Hexagonal**
-  * Projeto aplicando Hexagonal Architecture (Ports & Adapters) com Spring Boot, Kafka, Docker, WireMock e MongoDB.
-* **CleanArch — Arquitetura Limpa**
-  * Aplicação prática de Clean Architecture para gestão de clientes, mensageria via Kafka e simulação de CEPs externos.
-* **Employee Manager**
-  * API RESTful em Spring Boot dockerizada para cálculo de salários e impostos, utilizando PostgreSQL e migrações Flyway.
+* **HexArch — Arquitetura Hexagonal com Spring Boot, Kafka, Docker, WireMock e MongoDB**
+  * Projeto aplicando Hexagonal Architecture (Ports & Adapters) com foco em desacoplamento e testabilidade.
+Gerencia clientes com persistência em MongoDB, comunicação assíncrona via Kafka e integração simulada com serviço externo de CEP usando WireMock.
+  
+* **CleanArch — Arquitetura Limpa com Spring Boot, Kafka, Docker e WireMock**
+  * Projeto aplicando Clean Architecture para gerenciamento de clientes, integração com serviços externos, mensageria via Kafka e simulação de CEP com WireMock.
+  
+* **Employee Manager — Cálculo de Salários e Impostos para Funcionários**
+  * API RESTful em Spring Boot para cadastro de funcionários, cálculo de reajuste salarial e imposto de renda.
+Totalmente dockerizada, com documentação interativa via Swagger, banco PostgreSQL com migrações Flyway e pronta para execução local via Docker Compose.
 
 ---
 

@@ -14,45 +14,57 @@ Tenho forte vivência na criação de ecossistemas orientados a eventos, orquest
 
 ### 🛠️ Competências e Tecnologias
 
-* **Linguagens:** Kotlin, Java
-* **Frameworks e Bibliotecas:** Spring Boot, Spring Framework, WebFlux, Spring Data JPA, Spring Cloud, JUnit, MockK, Mockito
-* **Mensageria e Orquestração:** Apache Kafka, RabbitMQ, AWS SQS, Conductor
-* **Observabilidade e Monitoramento:** Grafana
-* **Bancos de Dados:** PostgreSQL, MongoDB, Amazon RDS, OracleDB, Flyway
-* **Arquitetura e Conceitos:** Microsserviços, Arquitetura Orientada a Eventos (EDA), Arquitetura Limpa, Arquitetura Hexagonal, Programação Reativa, REST APIs
-* **Cloud e DevOps:** AWS (EC2, Secrets Manager, Lambda, SQS, RDS), Docker, Concourse CI
+**Linguagens**  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-5A6973?style=for-the-badge&logo=sqlite&logoColor=white) ![NoSQL](https://img.shields.io/badge/NoSQL-4CAF50?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Frameworks e bibliotecas**  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) ![Spring Webflux](https://img.shields.io/badge/Spring_Webflux-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white) ![Mockito](https://img.shields.io/badge/Mockito-8A6642?style=for-the-badge)
+
+**Mensageria**  
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+**Build e automação**  
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white) ![Concourse](https://img.shields.io/badge/Concourse-5E5E5E?style=for-the-badge&logo=concourse&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI/CD-4285F4?style=for-the-badge)
+
+**Containers e orquestração**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+**Bancos de dados**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**IDE e versionamento**  
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white) ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white) ![Gitflow](https://img.shields.io/badge/Gitflow-F05032?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
-### 💼 Experiência Professional
+### 💼 Experiência Profissional
 
-* **Dexian Brasil** — *Senior Java Software Engineer* *(Jul/2025 – Jun/2026)*
+* [**Dexian Brasil**](https://brasil.dexian.com/) — *Senior Java Software Engineer* *(Jul/2025 – Jun/2026)*
   * Atuação na evolução de uma plataforma distribuída e complexa de criação e alocação de pedidos para o **Grupo Boticário**.
   * Desenvolvimento de funcionalidades e ecossistema de microsserviços orientados a eventos utilizando **Kotlin** e **Spring**.
   * Orquestração de workflows assíncronos com **Conductor** e mensageria com **Kafka** e **RabbitMQ**.
   * Monitoramento da saúde e comportamento das aplicações com **Grafana** e persistência em **PostgreSQL**.
 
-* **Redspark** — *Desenvolvedor Backend* *(Jul/2024 – Ago/2025)*
+* [**Redspark**](https://redspark.io/) — *Desenvolvedor Backend* *(Jul/2024 – Ago/2025)*
   * Desenvolvimento do sistema PNLD DIGI (RNP / Governo Federal), focado na modernização e digitalização da distribuição de livros didáticos.
   * **Tecnologias:** Kotlin, Spring Framework, AWS SQS e programação reativa com Spring WebFlux para altíssimo volume de acessos simultâneos.
 
-* **NTT DATA Europe & Latam** — *Software Engineer* *(Out/2023 – Jul/2024)*
+* [**NTT DATA Europe & Latam**](https://nttdata-solutions.com/br/) — *Software Engineer* *(Out/2023 – Jul/2024)*
   * Evolução e personalização de plataforma de delivery B2B para a **Ambev** atendendo múltiplos países (Brasil, México, Uruguai, Colômbia).
   * **Tecnologias:** Kotlin, Spring Framework, Microsserviços e Amazon RDS.
 
-* **Radix Engenharia e Software** — *Desenvolvedor Java Pleno* *(Fev/2023 – Out/2023)*
-  * Modernização e migração de sistemas legados no setor farmacêutico utilizando Arquitetura Hexagonal e Orientada a Eventos.
+* [**Radix Engenharia e Software**](https://radixeng.com.br/) — *Desenvolvedor Java Pleno* *(Fev/2023 – Out/2023)*
+  * Modernização e migração de sistemas legados no setor farmacêutico utilizando **Arquitetura Hexagonal** e **Orientada a Eventos**.
   * **Tecnologias:** Java 11, Spring, RabbitMQ, Kafka SaaS, MongoDB, OracleDB, AWS RDS, AWS Lambda e Design Patterns (Strategy).
 
-* **C6 Bank** — *Software Developer* *(Dez/2021 – Fev/2023)*
+* [**C6 Bank**](https://www.c6bank.com.br/) — *Software Developer* *(Dez/2021 – Fev/2023)*
   * Desenvolvimento de infraestrutura e APIs REST para soluções financeiras e cobrança PJ.
   * **Tecnologias:** Kotlin, Spring Framework, PostgreSQL, MongoDB, JUnit, MockK e pipelines CI/CD com Concourse.
 
-* **Zup Innovation** — *Software Developer / Intern* *(Jan/2020 – Dez/2021)*
-  * Criação de sistema centralizado de cofre de segredos com AWS Secrets Manager, gestão de EC2 e automações internas.
+* [**Zup Innovation**](https://zup.com.br/) — *Software Developer / Intern* *(Jan/2020 – Dez/2021)*
+  * Criação de sistema centralizado de cofre de segredos com **AWS Secrets Manager**, gestão de EC2 e automações internas.
   * Autor de artigo técnico no Medium sobre integração com AWS Secrets Manager.
   * **Tecnologias:** Java, Kotlin, Spring Boot, Spring Data JPA, PostgreSQL, JUnit, Mockito.
-
 ---
 
 ### 🧩 Projetos em Destaque

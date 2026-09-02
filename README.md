@@ -39,29 +39,29 @@ Tenho forte vivência na criação de ecossistemas orientados a eventos, orquest
 
 ### 💼 Experiência Profissional
 
-* [**Dexian Brasil**](https://brasil.dexian.com/) — *Senior Java Software Engineer* *(Jul/2025 – Jun/2026)*
+* <a href="https://brasil.dexian.com/" target="_blank" rel="noopener noreferrer"><strong>Dexian Brasil</strong></a> — *Senior Java Software Engineer* *(Jul/2025 – Jun/2026)*
   * Atuação na evolução de uma plataforma distribuída e complexa de criação e alocação de pedidos para o **Grupo Boticário**.
   * Desenvolvimento de funcionalidades e ecossistema de microsserviços orientados a eventos utilizando **Kotlin** e **Spring**.
   * Orquestração de workflows assíncronos com **Conductor** e mensageria com **Kafka** e **RabbitMQ**.
   * Monitoramento da saúde e comportamento das aplicações com **Grafana** e persistência em **PostgreSQL**.
 
-* [**Redspark**](https://redspark.io/) — *Desenvolvedor Backend* *(Jul/2024 – Ago/2025)*
+* <a href="https://redspark.io/" target="_blank" rel="noopener noreferrer"><strong>Redspark</strong></a> — *Desenvolvedor Backend* *(Jul/2024 – Ago/2025)*
   * Desenvolvimento do sistema PNLD DIGI (RNP / Governo Federal), focado na modernização e digitalização da distribuição de livros didáticos.
   * **Tecnologias:** Kotlin, Spring Framework, AWS SQS e programação reativa com Spring WebFlux para altíssimo volume de acessos simultâneos.
 
-* [**NTT DATA Europe & Latam**](https://nttdata-solutions.com/br/) — *Software Engineer* *(Out/2023 – Jul/2024)*
+* <a href="https://nttdata-solutions.com/br/" target="_blank" rel="noopener noreferrer"><strong>NTT DATA Europe & Latam</strong></a> — *Software Engineer* *(Out/2023 – Jul/2024)*
   * Evolução e personalização de plataforma de delivery B2B para a **Ambev** atendendo múltiplos países (Brasil, México, Uruguai, Colômbia).
   * **Tecnologias:** Kotlin, Spring Framework, Microsserviços e Amazon RDS.
 
-* [**Radix Engenharia e Software**](https://radixeng.com.br/) — *Desenvolvedor Java Pleno* *(Fev/2023 – Out/2023)*
+* <a href="https://radixeng.com.br/" target="_blank" rel="noopener noreferrer"><strong>Radix Engenharia e Software</strong></a> — *Desenvolvedor Java Pleno* *(Fev/2023 – Out/2023)*
   * Modernização e migração de sistemas legados no setor farmacêutico utilizando **Arquitetura Hexagonal** e **Orientada a Eventos**.
   * **Tecnologias:** Java 11, Spring, RabbitMQ, Kafka SaaS, MongoDB, OracleDB, AWS RDS, AWS Lambda e Design Patterns (Strategy).
 
-* [**C6 Bank**](https://www.c6bank.com.br/) — *Software Developer* *(Dez/2021 – Fev/2023)*
+* <a href="https://www.c6bank.com.br/" target="_blank" rel="noopener noreferrer"><strong>C6 Bank</strong></a> — *Software Developer* *(Dez/2021 – Fev/2023)*
   * Desenvolvimento de infraestrutura e APIs REST para soluções financeiras e cobrança PJ.
   * **Tecnologias:** Kotlin, Spring Framework, PostgreSQL, MongoDB, JUnit, MockK e pipelines CI/CD com Concourse.
 
-* [**Zup Innovation**](https://zup.com.br/) — *Software Developer / Intern* *(Jan/2020 – Dez/2021)*
+* <a href="https://zup.com.br/" target="_blank" rel="noopener noreferrer"><strong>Zup Innovation</strong></a> — *Software Developer / Intern* *(Jan/2020 – Dez/2021)*
   * Criação de sistema centralizado de cofre de segredos com **AWS Secrets Manager**, gestão de EC2 e automações internas.
   * Autor de artigo técnico no Medium sobre integração com AWS Secrets Manager.
   * **Tecnologias:** Java, Kotlin, Spring Boot, Spring Data JPA, PostgreSQL, JUnit, Mockito.
